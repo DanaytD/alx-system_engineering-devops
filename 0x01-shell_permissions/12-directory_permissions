@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir\n chmod 751 
+mkdir -p -m 751 /root/alx-system_engineering/0x01-shell_permissions/my_dir 
